@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+
+#container{
+    width: 80%;
+    background-color: rgb(235, 239, 245);
+    border-radius: 0.5em;
+}
+
+.contact{
+    padding: 1.5em;
+}
+
+.button {
+    background-color: rgb(58, 207, 58);
+    color: white;
+    border-radius: 0.2em;
+    box-shadow: rgb(58, 207, 58);
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}
+
+#textarea {
+    width: 77em;
+}
+
+.country {
+    width: 77.3em;
+    height: 2.5em;
+}
+
+.master {
+    width: 77em;
+    height: 2em;
+}
+
+
+
+
+/* .container {
+    position: relative;
+    width: 80%;
+    background-color: rgba(238, 38, 38, 0.658);
+} */
